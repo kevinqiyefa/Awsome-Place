@@ -1,0 +1,4 @@
+#Sun Aug 12 18:51:01 PDT 2018
+base.0=/Users/kevin/Desktop/react-native-projects/my-first-rn-app/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
