@@ -20,7 +20,7 @@ export const selectPlace = key => {
   };
 };
 
-export const deselectPlace = key => {
+export const deselectPlace = () => {
   return {
     type: actionType.DESELECT_PLACE
   };
