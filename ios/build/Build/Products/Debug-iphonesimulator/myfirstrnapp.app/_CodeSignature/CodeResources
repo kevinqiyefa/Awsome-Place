@@ -6,23 +6,7 @@
 	<dict>
 		<key>Base.lproj/LaunchScreen.nib</key>
 		<data>
-		4Bctha4HuxVDUG/pdBsoU9nZmbI=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<data>
-		8CN5cCzwKl0+7ieNPMN/SawZQA8=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<data>
-		Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<data>
-		UU+vWjYvpE8lKAxV1lE2tUbIZA0=
-		</data>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<data>
-		znuKt4UiTOJWwzrlgwaYX94o/a4=
+		gzAmS5pns1eMyJncciYDcp4DlLQ=
 		</data>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
 		<data>
@@ -67,7 +51,7 @@
 		</data>
 		<key>PlugIns/myfirstrnappTests.xctest.dSYM/Contents/Resources/DWARF/myfirstrnappTests</key>
 		<data>
-		V/4pPT89Vis9541VJdjXRBq/FS8=
+		o+Ek/tGnI8NUMaZnDc4OyGQtmsg=
 		</data>
 		<key>PlugIns/myfirstrnappTests.xctest/Info.plist</key>
 		<data>
@@ -79,7 +63,7 @@
 		</data>
 		<key>PlugIns/myfirstrnappTests.xctest/myfirstrnappTests</key>
 		<data>
-		QcXz6o/lAId9Y/rzzqgRbCtExnQ=
+		/yt/NavXOiO/N46EjUa4lxv+8O8=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -88,55 +72,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4Bctha4HuxVDUG/pdBsoU9nZmbI=
+			gzAmS5pns1eMyJncciYDcp4DlLQ=
 			</data>
 			<key>hash2</key>
 			<data>
-			xAppKtTAsSdhtInUfYeg6/a3BbR82aDqn1Ot7CoByLs=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/IDEBundleInjection</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			8CN5cCzwKl0+7ieNPMN/SawZQA8=
-			</data>
-			<key>hash2</key>
-			<data>
-			/R1Uy1RZ7ljX2V8ZHMhD4g8ieWHns9sj34YDK2McvfY=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/Info.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Cwsl4MoHt6dTvyYXRy5C2x7Kd88=
-			</data>
-			<key>hash2</key>
-			<data>
-			IvG0kD54lYvEZzfjVmXtrtBdydTUy1uFZkZXUddfTzY=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/_CodeSignature/CodeResources</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			UU+vWjYvpE8lKAxV1lE2tUbIZA0=
-			</data>
-			<key>hash2</key>
-			<data>
-			Ja3vToXIdN/BmsoAh4U4btDVl5lKbzndKf99CyxV6K4=
-			</data>
-		</dict>
-		<key>Frameworks/IDEBundleInjection.framework/version.plist</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			znuKt4UiTOJWwzrlgwaYX94o/a4=
-			</data>
-			<key>hash2</key>
-			<data>
-			napzzKlhgK6Qoqz8QO+9TkyuIsW5V+s6GmClALe2lT4=
+			33wMBK/lhLQsmDsd8oHcJZgjsUHVxYuJyob3YSUulRQ=
 			</data>
 		</dict>
 		<key>Frameworks/XCTest.framework/Info.plist</key>
@@ -222,11 +162,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V/4pPT89Vis9541VJdjXRBq/FS8=
+			o+Ek/tGnI8NUMaZnDc4OyGQtmsg=
 			</data>
 			<key>hash2</key>
 			<data>
-			StgZqNJ7qWn7YQPIzaQOSw3zGTVDJdIkgxz++33VX08=
+			JcuSDhPMm3J2KPNfX/V0BQ79fbN1P2a0P4yLnvpqjqw=
 			</data>
 		</dict>
 		<key>PlugIns/myfirstrnappTests.xctest/Info.plist</key>
@@ -255,11 +195,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QcXz6o/lAId9Y/rzzqgRbCtExnQ=
+			/yt/NavXOiO/N46EjUa4lxv+8O8=
 			</data>
 			<key>hash2</key>
 			<data>
-			gh8J5R1Wu7cIo1ETuFqX0VAoSMmFlj2CZTf9AH45GnM=
+			AckG4uzVFTZuaIhzRVLW2In/g6oJM90hffWogEddmZM=
 			</data>
 		</dict>
 	</dict>
